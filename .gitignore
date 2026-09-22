@@ -1,0 +1,9 @@
+# Local database and R session files
+data/*.sqlite
+.Rhistory
+.RData
+.Rproj.user/
+
+# Regenerated chart files
+outputs/*.png
+
