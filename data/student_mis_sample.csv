@@ -1,0 +1,14 @@
+student_id,student_name,gender,department,year,attendance_pct,marks,fee_status
+S001,Aarav Sharma,Male,Computer Science,1,88,76,Paid
+S002,Diya Patel,Female,Computer Science,1,92,84,Paid
+S003,Vihaan Gupta,Male,Commerce,2,71,48,Pending
+S004,Ananya Singh,Female,Commerce,2,85,73,Paid
+S005,Arjun Verma,Male,Mathematics,1,69,55,Pending
+S006,Isha Rao,Female,Mathematics,1,95,91,Paid
+S007,Reyansh Khan,Male,Physics,3,78,63,Paid
+S008,Kavya Nair,Female,Physics,3,74,46,Pending
+S009,Aditya Mehta,Male,Computer Science,2,90,88,Paid
+S010,Meera Iyer,Female,Commerce,1,82,69,Paid
+S011,Rohan Das,Male,Mathematics,2,76,58,Paid
+S012,Saanvi Joshi,Female,Physics,2,86,79,Paid
+
